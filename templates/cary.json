@@ -1,0 +1,25 @@
+[
+  {
+    "path": "cary/File015_UV_Vis_RWTH_Cary60.csv",
+    "metadata": {
+      "reader": "CaryReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "801",
+          "columns": "3",
+          "Collection Time": "6/17/2021 4:53:42 PM",
+          "Operator Name": "",
+          "Scan Version": "5.1.0.1016",
+          "Parameter List": "",
+          "Instrument": "Cary 60",
+          "Instrument Version": "2.00",
+          "Start (nm)": "1000.0",
+          "Stop (nm)": "200.0",
+          "X Mode": "Nanometers"
+        }
+      }
+    ]
+  }
+]
