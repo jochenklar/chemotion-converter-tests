@@ -1,0 +1,16 @@
+[
+  {
+    "path": "ascii/UVVIS_Pulegon_ethanol.dsp",
+    "metadata": {
+      "reader": "DSPReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "401",
+          "columns": "1"
+        }
+      }
+    ]
+  }
+]

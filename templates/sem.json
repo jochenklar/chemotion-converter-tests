@@ -1,0 +1,40 @@
+[
+  {
+    "path": "sem/SEM-AMT_0595_XY_G1_011.txt",
+    "metadata": {
+      "reader": "SemReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "4",
+          "columns": "8"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "0"
+        }
+      }
+    ]
+  },
+  {
+    "path": "sem/SEM-AMT_0595_XY_G1_012.txt",
+    "metadata": {
+      "reader": "SemReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "4",
+          "columns": "8"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "0"
+        }
+      }
+    ]
+  }
+]

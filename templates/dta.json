@@ -1,0 +1,242 @@
+[
+  {
+    "path": "dta/250uLDMSO_2mMFc_CVial_no6_1mV_con.DTA",
+    "metadata": {
+      "reader": "DtaReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "1201",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1200",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1200",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "dta/File56(1).DTA",
+    "metadata": {
+      "reader": "DtaReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "901",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1400",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1400",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "500",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "dta/Helena_TestMessung_1mM_300uLDMSO_no1.DTA",
+    "metadata": {
+      "reader": "DtaReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "4001",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "4000",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "4000",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1",
+          "columns": "10"
+        },
+        "columns": [
+          "Pt",
+          "T",
+          "Vf",
+          "Im",
+          "Vu",
+          "Sig",
+          "Ach",
+          "IERange",
+          "Over",
+          "Temp"
+        ]
+      }
+    ]
+  }
+]

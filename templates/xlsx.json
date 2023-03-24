@@ -1,0 +1,21 @@
+[
+  {
+    "path": "xlsx/HM-294(1)_new.xlsx",
+    "metadata": {
+      "reader": "ExcelReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "0"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "34738",
+          "columns": "4"
+        }
+      }
+    ]
+  }
+]

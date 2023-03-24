@@ -1,0 +1,151 @@
+[
+  {
+    "path": "nova/[Cu(TMG2cHexqu)2]PF6.txt",
+    "metadata": {
+      "reader": "NovaReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "506",
+          "columns": "10"
+        },
+        "columns": [
+          "Potential applied (V)",
+          "Time (s)",
+          "WE(1).Current (A)",
+          "WE(1).Potential (V)",
+          "Scan",
+          "Index",
+          "Q+",
+          "Q-",
+          "Step size (V)",
+          "Scan rate (V/s)"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "nova/FeBr3(TMG5NMe2asme) - 20mV.txt",
+    "metadata": {
+      "reader": "NovaReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "808",
+          "columns": "10"
+        },
+        "columns": [
+          "Potential applied (V)",
+          "Time (s)",
+          "WE(1).Current (A)",
+          "WE(1).Potential (V)",
+          "Scan",
+          "Index",
+          "Q+",
+          "Q-",
+          "Step size (V)",
+          "Scan rate (V/s)"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "nova/File021_CV.txt",
+    "metadata": {
+      "reader": "NovaReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "1876",
+          "columns": "12",
+          "scan": "1"
+        },
+        "columns": [
+          "Potential applied (V)",
+          "Time (s)",
+          "WE(1).Current (A)",
+          "WE(1).Potential (V)",
+          "Scan",
+          "Index",
+          "Q+",
+          "Q-",
+          "Current range",
+          "Overload",
+          "Step size (V)",
+          "Scan rate (V/s)"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1876",
+          "columns": "12",
+          "scan": "2"
+        },
+        "columns": [
+          "Potential applied (V)",
+          "Time (s)",
+          "WE(1).Current (A)",
+          "WE(1).Potential (V)",
+          "Scan",
+          "Index",
+          "Q+",
+          "Q-",
+          "Current range",
+          "Overload",
+          "Step size (V)",
+          "Scan rate (V/s)"
+        ]
+      },
+      {
+        "metadata": {
+          "rows": "1876",
+          "columns": "12",
+          "scan": "3"
+        },
+        "columns": [
+          "Potential applied (V)",
+          "Time (s)",
+          "WE(1).Current (A)",
+          "WE(1).Potential (V)",
+          "Scan",
+          "Index",
+          "Q+",
+          "Q-",
+          "Current range",
+          "Overload",
+          "Step size (V)",
+          "Scan rate (V/s)"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "nova/SCR167Fc.txt",
+    "metadata": {
+      "reader": "NovaReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "5246",
+          "columns": "10"
+        },
+        "columns": [
+          "Potential applied (V)",
+          "Time (s)",
+          "WE(1).Current (A)",
+          "WE(1).Potential (V)",
+          "Scan",
+          "Index",
+          "Q+",
+          "Q-",
+          "Step size (V)",
+          "Scan rate (V/s)"
+        ]
+      }
+    ]
+  }
+]

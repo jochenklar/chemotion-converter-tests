@@ -1,0 +1,42 @@
+[
+  {
+    "path": "aif/cm1c01804_si_003.txt",
+    "metadata": {
+      "reader": "AifReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "96",
+          "columns": "3"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "82",
+          "columns": "3"
+        }
+      }
+    ]
+  },
+  {
+    "path": "aif/cm1c01804_si_004.txt",
+    "metadata": {
+      "reader": "AifReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "48",
+          "columns": "3"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "64",
+          "columns": "3"
+        }
+      }
+    ]
+  }
+]

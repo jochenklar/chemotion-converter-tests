@@ -1,0 +1,70 @@
+[
+  {
+    "path": "csv/HOPG_cleaved_EP20.csv",
+    "metadata": {
+      "reader": "CSVReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "121",
+          "columns": "13"
+        },
+        "columns": [
+          "eV",
+          null,
+          "Counts / s",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "csv/ML-428.txt",
+    "metadata": {
+      "reader": "CSVReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "4373",
+          "columns": "4"
+        },
+        "columns": [
+          "Time(min)",
+          "Step(sec)",
+          "Value(mAU)",
+          null
+        ]
+      }
+    ]
+  },
+  {
+    "path": "csv/ML-986.txt",
+    "metadata": {
+      "reader": "CSVReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "3001",
+          "columns": "3"
+        },
+        "columns": [
+          "Time (min)",
+          "Step (s)",
+          "Value (mAU)"
+        ]
+      }
+    ]
+  }
+]

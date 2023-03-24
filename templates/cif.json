@@ -1,0 +1,62 @@
+[
+  {
+    "path": "cif/SG-V3545-6-13.cif",
+    "metadata": {
+      "reader": "CifReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": null
+        }
+      },
+      {
+        "metadata": {
+          "rows": "4",
+          "columns": "5"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "8",
+          "columns": "1"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "25",
+          "columns": "15"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "16",
+          "columns": "7"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "27",
+          "columns": "5"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "43",
+          "columns": "7"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "33",
+          "columns": "10"
+        }
+      },
+      {
+        "metadata": {
+          "rows": null
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "path": "ascii/IMT_Porosity.txt",
+    "metadata": {
+      "reader": "AsciiReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "5",
+          "columns": "3"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "34",
+          "columns": "2"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "501",
+          "columns": "3"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "120",
+          "columns": "5"
+        }
+      }
+    ]
+  }
+]

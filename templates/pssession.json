@@ -1,0 +1,25 @@
+[
+  {
+    "path": "pssession/File053.pssession",
+    "metadata": {
+      "reader": "PsSessionReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "724"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "724"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "724"
+        }
+      }
+    ]
+  }
+]

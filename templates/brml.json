@@ -1,0 +1,16 @@
+[
+  {
+    "path": "brml/XRD_test_data.brml",
+    "metadata": {
+      "reader": "BrmlReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "10677",
+          "columns": "5"
+        }
+      }
+    ]
+  }
+]

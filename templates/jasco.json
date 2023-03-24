@@ -1,0 +1,20 @@
+[
+  {
+    "path": "jasco/CM-061.ascii",
+    "metadata": {
+      "reader": "JascoReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "91360",
+          "columns": "2"
+        },
+        "columns": [
+          null,
+          null
+        ]
+      }
+    ]
+  }
+]

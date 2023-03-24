@@ -1,0 +1,55 @@
+[
+  {
+    "path": "sec/MS-185_Lichtstreuung.TXT",
+    "metadata": {
+      "reader": "SecReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "0"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "0"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "8",
+          "columns": "5"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "8",
+          "columns": "9"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "0"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "1800",
+          "columns": "6"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "311",
+          "columns": "7"
+        }
+      },
+      {
+        "metadata": {
+          "rows": "288",
+          "columns": "3"
+        }
+      }
+    ]
+  }
+]

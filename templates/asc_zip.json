@@ -1,0 +1,30 @@
+[
+  {
+    "path": "asc_zip/20210118_AP-Hol5-01.zip",
+    "metadata": {
+      "reader": "AscZipReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "11",
+          "columns": "8"
+        }
+      }
+    ]
+  },
+  {
+    "path": "asc_zip/NikkiParks_20210118_AP-Hol5-01_raw.zip",
+    "metadata": {
+      "reader": "AscZipReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "256",
+          "columns": "8"
+        }
+      }
+    ]
+  }
+]

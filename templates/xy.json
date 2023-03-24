@@ -1,0 +1,44 @@
+[
+  {
+    "path": "xy/compound  1-ACETAL OH.xy",
+    "metadata": {
+      "reader": "CSVReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "136352",
+          "columns": "2"
+        }
+      }
+    ]
+  },
+  {
+    "path": "xy/IMT_XRD.xy",
+    "metadata": {
+      "reader": "CSVReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "7831",
+          "columns": "2"
+        }
+      }
+    ]
+  },
+  {
+    "path": "xy/mass_aachen_tof.xy",
+    "metadata": {
+      "reader": "AsciiReader"
+    },
+    "tables": [
+      {
+        "metadata": {
+          "rows": "796129",
+          "columns": "2"
+        }
+      }
+    ]
+  }
+]
